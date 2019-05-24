@@ -4,3 +4,4 @@ http://52.55.119.20:8080
 +refs/pull/*:refs/remotes/origin/pr/* 
 +refs/pull/*:refs/remotes/origin/pr/* 
 +refs/pull/*:refs/remotes/origin/pr/* 
++refs/pull/*:refs/remotes/origin/pr/* 
